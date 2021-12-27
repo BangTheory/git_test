@@ -1,4 +1,4 @@
 # git_test
 first trial
-hello odin
+hello odin \n
 another entry test
