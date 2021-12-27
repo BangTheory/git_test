@@ -1,3 +1,3 @@
 # git_test
-fist trial
+first trial
 hello odin
